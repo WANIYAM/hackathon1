@@ -29,10 +29,10 @@ description: "Task list template for feature implementation"
 
 **Purpose**: Project initialization and basic documentation structure for Module 2.
 
-- [ ] T001 Create directory `ros2-docs/docs/module2/`
-- [ ] T002 Create file `ros2-docs/docs/module2/gazebo-physics.md`
-- [ ] T003 Create file `ros2-docs/docs/module2/unity-digital-twins.md`
-- [ ] T004 Create file `ros2-docs/docs/module2/sensor-simulation.md`
+- [x] T001 Create directory `ros2-docs/docs/module2/`
+- [x] T002 Create file `ros2-docs/docs/module2/gazebo-physics.md`
+- [x] T003 Create file `ros2-docs/docs/module2/unity-digital-twins.md`
+- [x] T004 Create file `ros2-docs/docs/module2/sensor-simulation.md`
 
 ## Phase 2: Foundational (Blocking Prerequisites)
 
@@ -40,7 +40,7 @@ description: "Task list template for feature implementation"
 
 **⚠️ CRITICAL**: No user story content can be easily navigated until this phase is complete.
 
-- [ ] T005 Update `ros2-docs/sidebars.js` to include the 'Module 2' section with its three chapters: 'Gazebo Physics', 'Unity Digital Twins', and 'Sensor Simulation'.
+- [x] T005 Update `ros2-docs/sidebars.js` to include the 'Module 2' section with its three chapters: 'Gazebo Physics', 'Unity Digital Twins', and 'Sensor Simulation'.
 
 ## Phase 3: User Story 1 - Simulate Humanoid Physics in Gazebo (Priority: P1) 🎯 MVP
 
@@ -50,7 +50,7 @@ description: "Task list template for feature implementation"
 
 ### Implementation for User Story 1
 
-- [ ] T006 [US1] Add content for simulating humanoid physics in Gazebo to `ros2-docs/docs/module2/gazebo-physics.md`
+- [x] T006 [US1] Add content for simulating humanoid physics in Gazebo to `ros2-docs/docs/module2/gazebo-physics.md`
 
 ## Phase 4: User Story 2 - Visualize High-Fidelity Digital Twins in Unity (Priority: P1)
 
@@ -60,7 +60,7 @@ description: "Task list template for feature implementation"
 
 ### Implementation for User Story 2
 
-- [ ] T007 [US2] Add content for visualizing high-fidelity digital twins in Unity to `ros2-docs/docs/module2/unity-digital-twins.md`
+- [x] T007 [US2] Add content for visualizing high-fidelity digital twins in Unity to `ros2-docs/docs/module2/unity-digital-twins.md`
 
 ## Phase 5: User Story 3 - Simulate Sensor Data for Humanoid Robots (Priority: P2)
 
@@ -70,14 +70,14 @@ description: "Task list template for feature implementation"
 
 ### Implementation for User Story 3
 
-- [ ] T008 [US3] Add content for simulating sensor data for humanoid robots to `ros2-docs/docs/module2/sensor-simulation.md`
+- [x] T008 [US3] Add content for simulating sensor data for humanoid robots to `ros2-docs/docs/module2/sensor-simulation.md`
 
 ## Phase N: Polish & Cross-Cutting Concerns
 
 **Purpose**: Ensure the new documentation integrates seamlessly and is validated.
 
-- [ ] T009 Run Docusaurus build to verify documentation compilation and navigation in `ros2-docs/`
-- [ ] T010 Review the newly added documentation for clarity, accuracy, and adherence to Docusaurus style guidelines.
+- [x] T009 Run Docusaurus build to verify documentation compilation and navigation in `ros2-docs/`
+- [x] T010 Review the newly added documentation for clarity, accuracy, and adherence to Docusaurus style guidelines.
 
 ## Dependencies & Execution Order
 

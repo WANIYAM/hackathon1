@@ -23,6 +23,15 @@ const sidebars = {
     'chapter1',
     'chapter2',
     'chapter3',
+    {
+      type: 'category',
+      label: 'Module 2 - Digital Twin',
+      items: [
+        'module2/gazebo-physics',
+        'module2/unity-digital-twins',
+        'module2/sensor-simulation',
+      ],
+    },
   ],
 };
 
