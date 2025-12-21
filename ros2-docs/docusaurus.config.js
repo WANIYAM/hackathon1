@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'ROS 2 Module',
+        title: 'Home',
         logo: {
           alt: 'ROS 2 Module Logo',
           src: 'img/logo.svg',
@@ -93,7 +93,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'ros2ModuleSidebar',
             position: 'left',
-            label: 'Module',
+            label: 'Book',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Module',
-                to: '/docs/chapter1',
+                to: '/docs/module1/chapter1',
               },
             ],
           },
