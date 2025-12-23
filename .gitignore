@@ -3,7 +3,6 @@ logs
 *.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 lerna-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -45,3 +44,18 @@ out/
 .env.env.test.local
 .env.production.local
 .env.defaults
+
+# Python specific ignores
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# Gemini generated content
+.gemini/agent_context.json
+history/prompts/
+specs/001-rag-ingestion-pipeline/
+specs/001-rag-retrieval-validation/
+

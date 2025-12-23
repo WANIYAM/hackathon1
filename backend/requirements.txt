@@ -1,0 +1,13 @@
+requests
+BeautifulSoup4
+cohere
+qdrant-client
+python-dotenv
+tqdm
+fastapi
+uvicorn
+openai
+pydantic
+pydantic-settings
+langchain-openai
+langchain
